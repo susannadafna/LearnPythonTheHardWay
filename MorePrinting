@@ -13,12 +13,12 @@ end7 = "h"
 end8 = "u"
 end9 = "r"
 end10 = "g"
-end12 = "u"
-end13 = "e"
-end14 = "r"
+end11 = "u"
+end12 = "e"
+end13 = "r"
 
 # watch the COMA followe by end=' '  <== this will not let the break flow
 # end=' ' add the printings together one after another in same line
 
 print(end1 + end2 + end3 + end4 + end5, end=' ')
-print(end6 + end7 + end8 + end9 + end10 + end11 + end12 + end13 + end14)
+print(end6 + end7 + end8 + end9 + end10 + end11 + end12 + end13)
